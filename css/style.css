@@ -2130,6 +2130,10 @@ form label {
   border: 0.17rem solid;
 }
 
+.avnew-logo-link{
+  display: inline-block;
+}
+
 #gtco-industrial-tv{
   background: #fff;
 }
